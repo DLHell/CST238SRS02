@@ -1,8 +1,9 @@
 # CST238SRS02
 Target Alarm Range
 
-Name:
+Name: Daniel Lee
 
-Notes: 
+Notes: The layout and concept behind this was interesting.
 
-Issues:
+Issues: Lack of control in setting up time for working on this project. Really have to make time to learn as this is a new environment and
+new language to work with.
